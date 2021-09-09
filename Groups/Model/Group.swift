@@ -24,3 +24,16 @@ extension Group : Decodable {
      }
 
 }
+
+extension Array where Element == Group {
+    
+    func with( identifier: String ) -> Group? {
+        for group in self {
+            if group.identifier == identifier {
+                return group
+            }
+        }
+        return nil
+    }
+    
+}

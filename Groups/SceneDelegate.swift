@@ -23,18 +23,10 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
              If launching from an NSUserActivity that specifies a specific country and/or group, push that onto the navigation stack.
          */
         if let userActivity = connectionOptions.userActivities.first, let persistentIdentifier = userActivity.persistentIdentifier, let contentIdentifier = ContentIdentifier.parse(persistentIdentifier) {
-            if let countryIdentifier = contentIdentifier.countryIdentifier {
-                for country in Country.all {
-                    if country.identifier == countryIdentifier {
-                        navigationController.pushViewController(GroupListViewController(country: country), animated: false)
-                    }
-                    if let groupIdentifier = contentIdentifier.countryIdentifier {
-                        for group in country.groups {
-                            if group.identifier == groupIdentifier {
-                                navigationController.pushViewController(GroupViewController(group: group, countryIdentifier: country.identifier), animated: false)
-                            }
-                        }
-                    }
+            if let countryIdentifier = contentIdentifier.countryIdentifier, let country = Country.all.with(identifier: countryIdentifier) {
+                navigationController.pushViewController(GroupListViewController(country: country), animated: false)
+                if let groupIdentifier = contentIdentifier.countryIdentifier, let group = country.groups.with(identifier: groupIdentifier) {
+                    navigationController.pushViewController(GroupViewController(group: group, countryIdentifier: country.identifier), animated: false)
                 }
             }
         }
@@ -69,11 +61,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
                     navigationController.popViewController(animated: false)
                 }
             }
-            for country in Country.all {
-                if country.identifier == countryIdentifier {
-                    navigationController.pushViewController(GroupListViewController(country: country), animated: false)
-                    return
-                }
+            if let countryIdentifier = contentIdentifier.countryIdentifier, let country = Country.all.with(identifier: countryIdentifier) {
+                navigationController.pushViewController(GroupListViewController(country: country), animated: false)
             }
         case .groupDetails( let countryIdentifier, let groupIdentifier ):
             while navigationController.children.count > 3 {
@@ -95,16 +84,12 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
                 }
             }
             
-            for country in Country.all {
-                if country.identifier == countryIdentifier {
-                    if needCountry {
-                        navigationController.pushViewController(GroupListViewController(country: country), animated: false)
-                    }
-                    for group in country.groups {
-                        if group.identifier == groupIdentifier {
-                            navigationController.pushViewController(GroupViewController(group: group, countryIdentifier: country.identifier), animated: false)
-                        }
-                    }
+            if let countryIdentifier = contentIdentifier.countryIdentifier, let country = Country.all.with(identifier: countryIdentifier) {
+                if needCountry {
+                    navigationController.pushViewController(GroupListViewController(country: country), animated: false)
+                }
+                if let groupIdentifier = contentIdentifier.groupIdentifier, let group = country.groups.with(identifier: groupIdentifier) {
+                    navigationController.pushViewController(GroupViewController(group: group, countryIdentifier: country.identifier), animated: false)
                 }
             }
         }

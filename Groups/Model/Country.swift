@@ -33,3 +33,16 @@ extension Country : Decodable {
      }
 
 }
+
+extension Array where Element == Country {
+    
+    func with( identifier: String ) -> Country? {
+        for country in self {
+            if country.identifier == identifier {
+                return country
+            }
+        }
+        return nil
+    }
+    
+}
