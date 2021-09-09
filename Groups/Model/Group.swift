@@ -9,6 +9,7 @@ import Foundation
 
 struct Group {
     
+    let identifier: String
     let name: String
     let meetingText: String
     
@@ -17,8 +18,9 @@ struct Group {
 extension Group : Decodable {
     
     enum CodingKeys: String, CodingKey {
-         case name = "name"
-         case meetingText = "meeting_text"
+        case identifier = "id"
+        case name = "name"
+        case meetingText = "meeting_text"
      }
 
 }

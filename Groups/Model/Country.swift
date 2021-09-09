@@ -11,6 +11,7 @@ struct Country {
     
     static let all = Country.readFile()
     
+    let identifier: String
     let name: String
     let groups: [Group]
     
@@ -26,8 +27,9 @@ struct Country {
 extension Country : Decodable {
     
     enum CodingKeys: String, CodingKey {
-         case name = "name"
-         case groups = "groups"
+        case identifier = "id"
+        case name = "name"
+        case groups = "groups"
      }
 
 }
