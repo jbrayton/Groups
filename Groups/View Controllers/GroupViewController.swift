@@ -10,11 +10,13 @@ import UIKit
 class GroupViewController : UIViewController {
     
     let group: Group
+    let countryIdentifier: String
     
     var meetingTextLabel: UILabel!
 
-    init( group: Group ) {
+    init( group: Group, countryIdentifier: String ) {
         self.group = group
+        self.countryIdentifier = countryIdentifier
         super.init(nibName: nil, bundle: nil)
     }
     
@@ -40,7 +42,15 @@ class GroupViewController : UIViewController {
             self.meetingTextLabel.leadingAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.leadingAnchor, constant: 20),
             self.meetingTextLabel.trailingAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.trailingAnchor, constant: -20)
         ])
-
+        
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        self.setUserActivity()
+    }
+    
+    func setUserActivity() {
+        NSUserActivity.setCurrent(withIdentifier: String(format: "countries/%@/groups/%@", self.countryIdentifier, self.group.identifier), title: self.group.name)
+    }
+
 }

@@ -20,6 +20,7 @@
 		21164F2526E985CC008B87E0 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2426E985CB008B87E0 /* Country.swift */; };
 		21164F2726EA56A8008B87E0 /* GroupListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2626EA56A8008B87E0 /* GroupListViewController.swift */; };
 		21164F2A26EA57A0008B87E0 /* GroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2926EA57A0008B87E0 /* GroupViewController.swift */; };
+		21164F2C26EA6FD3008B87E0 /* NSUserActivity+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2B26EA6FD3008B87E0 /* NSUserActivity+Utilities.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		21164F2426E985CB008B87E0 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 		21164F2626EA56A8008B87E0 /* GroupListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupListViewController.swift; sourceTree = "<group>"; };
 		21164F2926EA57A0008B87E0 /* GroupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupViewController.swift; sourceTree = "<group>"; };
+		21164F2B26EA6FD3008B87E0 /* NSUserActivity+Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSUserActivity+Utilities.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			children = (
 				21164EEF26E983C7008B87E0 /* AppDelegate.swift */,
 				21164EF126E983C7008B87E0 /* SceneDelegate.swift */,
+				21164F2B26EA6FD3008B87E0 /* NSUserActivity+Utilities.swift */,
 				21164EF826E983CA008B87E0 /* Assets.xcassets */,
 				21164EFA26E983CA008B87E0 /* LaunchScreen.storyboard */,
 				21164EFD26E983CA008B87E0 /* Info.plist */,
@@ -293,6 +296,7 @@
 				21164F2526E985CC008B87E0 /* Country.swift in Sources */,
 				21164F2326E9843E008B87E0 /* Group.swift in Sources */,
 				21164F2A26EA57A0008B87E0 /* GroupViewController.swift in Sources */,
+				21164F2C26EA6FD3008B87E0 /* NSUserActivity+Utilities.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

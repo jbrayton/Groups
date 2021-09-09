@@ -27,6 +27,10 @@ class CountryListViewController: UITableViewController {
         self.tableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        self.setUserActivity()
+    }
+    
     override func numberOfSections(in tableView: UITableView) -> Int {
         return 1
     }
@@ -43,9 +47,13 @@ class CountryListViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let country = self.countries[indexPath.row]
-        let childViewController = GroupListViewController(countryName: country.name, groups: country.groups)
+        let childViewController = GroupListViewController(country: country)
         self.navigationController?.pushViewController(childViewController, animated: true)
         self.tableView.deselectRow(at: indexPath, animated: true)
+    }
+    
+    func setUserActivity() {
+        NSUserActivity.setCurrent(withIdentifier: "countries", title: self.title!)
     }
 
 }
