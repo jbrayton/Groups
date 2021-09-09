@@ -22,15 +22,13 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
         /*
              If launching from an NSUserActivity that specifies a specific country and/or group, push that onto the navigation stack.
          */
-        if let userActivity = connectionOptions.userActivities.first, let components = userActivity.persistentIdentifier?.components(separatedBy: "/") {
-            if components.count > 1, components[0] == "countries" {
-                let countryIdentifier = components[1]
+        if let userActivity = connectionOptions.userActivities.first, let persistentIdentifier = userActivity.persistentIdentifier, let contentIdentifier = ContentIdentifier.parse(persistentIdentifier) {
+            if let countryIdentifier = contentIdentifier.countryIdentifier {
                 for country in Country.all {
                     if country.identifier == countryIdentifier {
                         navigationController.pushViewController(GroupListViewController(country: country), animated: false)
                     }
-                    if components.count == 4, components[2] == "groups" {
-                        let groupIdentifier = components[3]
+                    if let groupIdentifier = contentIdentifier.countryIdentifier {
                         for group in country.groups {
                             if group.identifier == groupIdentifier {
                                 navigationController.pushViewController(GroupViewController(group: group, countryIdentifier: country.identifier), animated: false)
@@ -51,16 +49,16 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
         accepting the NSUserActivity and bending the view hierarchy to its will.
      */
     func scene(_ scene: UIScene, continue userActivity: NSUserActivity) {
-        guard let components = userActivity.persistentIdentifier?.components(separatedBy: "/"), let navigationController = self.window?.rootViewController as? UINavigationController else {
+        guard let persistentIdentifier = userActivity.persistentIdentifier, let contentIdentifier = ContentIdentifier.parse(persistentIdentifier), let navigationController = self.window?.rootViewController as? UINavigationController else {
             return
         }
-        if components.count == 1, components[0] == "countries" {
+        
+        switch contentIdentifier {
+        case .countryList:
             while navigationController.children.count > 1 {
                 navigationController.popViewController(animated: false)
             }
-        }
-        if components.count == 2, components[0] == "countries" {
-            let countryIdentifier = components[1]
+        case .groupListByCountry( let countryIdentifier ):
             while navigationController.children.count > 2 {
                 navigationController.popViewController(animated: false)
             }
@@ -77,10 +75,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
                     return
                 }
             }
-        }
-        if components.count == 4, components[0] == "countries", components[2] == "groups" {
-            let countryIdentifier = components[1]
-            let groupIdentifier = components[3]
+        case .groupDetails( let countryIdentifier, let groupIdentifier ):
             while navigationController.children.count > 3 {
                 navigationController.popViewController(animated: false)
             }
@@ -112,7 +107,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, UISceneDelegate {
                     }
                 }
             }
-            
         }
     }
 

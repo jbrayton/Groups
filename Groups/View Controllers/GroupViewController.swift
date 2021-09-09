@@ -50,7 +50,7 @@ class GroupViewController : UIViewController {
     }
     
     func setUserActivity() {
-        NSUserActivity.setCurrent(withIdentifier: String(format: "countries/%@/groups/%@", self.countryIdentifier, self.group.identifier), title: self.group.name)
+        NSUserActivity.setCurrent(withIdentifier: ContentIdentifier.groupDetails(countryIdentifier: self.countryIdentifier, groupIdentifier: self.group.identifier).identifierString, title: self.group.name)
     }
 
 }

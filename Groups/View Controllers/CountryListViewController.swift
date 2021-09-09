@@ -53,7 +53,7 @@ class CountryListViewController: UITableViewController {
     }
     
     func setUserActivity() {
-        NSUserActivity.setCurrent(withIdentifier: "countries", title: self.title!)
+        NSUserActivity.setCurrent(withIdentifier: ContentIdentifier.countryList.identifierString, title: self.title!)
     }
 
 }

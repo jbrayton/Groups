@@ -53,7 +53,7 @@ class GroupListViewController: UITableViewController {
     }
 
     func setUserActivity() {
-        NSUserActivity.setCurrent(withIdentifier: String(format: "countries/%@", self.country.identifier), title: self.country.name)
+        NSUserActivity.setCurrent(withIdentifier: ContentIdentifier.groupListByCountry(countryIdentifier: self.country.identifier).identifierString, title: self.country.name)
     }
 
 }
