@@ -16,7 +16,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
                options connectionOptions: UIScene.ConnectionOptions) {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         let window = UIWindow(windowScene: windowScene)
-        let viewController = ViewController()
+        let viewController = CountryListViewController(countries: Country.all)
         window.rootViewController = UINavigationController(rootViewController: viewController)
         window.makeKeyAndVisible()
         self.window = window

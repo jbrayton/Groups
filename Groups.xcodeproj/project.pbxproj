@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		21164EF026E983C7008B87E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164EEF26E983C7008B87E0 /* AppDelegate.swift */; };
 		21164EF226E983C7008B87E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164EF126E983C7008B87E0 /* SceneDelegate.swift */; };
-		21164EF426E983C7008B87E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164EF326E983C7008B87E0 /* ViewController.swift */; };
+		21164EF426E983C7008B87E0 /* CountryListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164EF326E983C7008B87E0 /* CountryListViewController.swift */; };
 		21164EF926E983CA008B87E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21164EF826E983CA008B87E0 /* Assets.xcassets */; };
 		21164EFC26E983CA008B87E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21164EFA26E983CA008B87E0 /* LaunchScreen.storyboard */; };
 		21164F0726E983CA008B87E0 /* CountryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F0626E983CA008B87E0 /* CountryTests.swift */; };
@@ -18,6 +18,8 @@
 		21164F2126E983EF008B87E0 /* groups.json in Resources */ = {isa = PBXBuildFile; fileRef = 21164F2026E983EF008B87E0 /* groups.json */; };
 		21164F2326E9843E008B87E0 /* Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2226E9843E008B87E0 /* Group.swift */; };
 		21164F2526E985CC008B87E0 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2426E985CB008B87E0 /* Country.swift */; };
+		21164F2726EA56A8008B87E0 /* GroupListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2626EA56A8008B87E0 /* GroupListViewController.swift */; };
+		21164F2A26EA57A0008B87E0 /* GroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21164F2926EA57A0008B87E0 /* GroupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +43,7 @@
 		21164EEC26E983C7008B87E0 /* Groups.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Groups.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21164EEF26E983C7008B87E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21164EF126E983C7008B87E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		21164EF326E983C7008B87E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		21164EF326E983C7008B87E0 /* CountryListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryListViewController.swift; sourceTree = "<group>"; };
 		21164EF826E983CA008B87E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21164EFB26E983CA008B87E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21164EFD26E983CA008B87E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,6 +55,8 @@
 		21164F2026E983EF008B87E0 /* groups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = groups.json; sourceTree = "<group>"; };
 		21164F2226E9843E008B87E0 /* Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group.swift; sourceTree = "<group>"; };
 		21164F2426E985CB008B87E0 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		21164F2626EA56A8008B87E0 /* GroupListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupListViewController.swift; sourceTree = "<group>"; };
+		21164F2926EA57A0008B87E0 /* GroupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,13 +107,13 @@
 		21164EEE26E983C7008B87E0 /* Groups */ = {
 			isa = PBXGroup;
 			children = (
-				21164F1F26E983D2008B87E0 /* Model */,
 				21164EEF26E983C7008B87E0 /* AppDelegate.swift */,
 				21164EF126E983C7008B87E0 /* SceneDelegate.swift */,
-				21164EF326E983C7008B87E0 /* ViewController.swift */,
 				21164EF826E983CA008B87E0 /* Assets.xcassets */,
 				21164EFA26E983CA008B87E0 /* LaunchScreen.storyboard */,
 				21164EFD26E983CA008B87E0 /* Info.plist */,
+				21164F1F26E983D2008B87E0 /* Model */,
+				21164F2826EA56B0008B87E0 /* View Controllers */,
 			);
 			path = Groups;
 			sourceTree = "<group>";
@@ -139,6 +143,16 @@
 				21164F2026E983EF008B87E0 /* groups.json */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		21164F2826EA56B0008B87E0 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				21164EF326E983C7008B87E0 /* CountryListViewController.swift */,
+				21164F2626EA56A8008B87E0 /* GroupListViewController.swift */,
+				21164F2926EA57A0008B87E0 /* GroupViewController.swift */,
+			);
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,11 +286,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21164EF426E983C7008B87E0 /* ViewController.swift in Sources */,
+				21164F2726EA56A8008B87E0 /* GroupListViewController.swift in Sources */,
+				21164EF426E983C7008B87E0 /* CountryListViewController.swift in Sources */,
 				21164EF026E983C7008B87E0 /* AppDelegate.swift in Sources */,
 				21164EF226E983C7008B87E0 /* SceneDelegate.swift in Sources */,
 				21164F2526E985CC008B87E0 /* Country.swift in Sources */,
 				21164F2326E9843E008B87E0 /* Group.swift in Sources */,
+				21164F2A26EA57A0008B87E0 /* GroupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
