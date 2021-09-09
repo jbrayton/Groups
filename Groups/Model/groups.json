@@ -1,0 +1,1008 @@
+[
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, April 13, 2017 18:30 at 313 Halifax Street, Adelaide, SA, 5000",
+                "name": "Adelaide"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, March 5, 2013 18:00 at RiverCityLabs",
+                "name": "Brisbane"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 8, 2011 17:30 at CRE8IVE",
+                "name": "Canberra"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 30, 2016 19:00 at Hunter Valley",
+                "name": "Hunter Valley"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 16, 2011 18:30 at TBD. Please visit the Melbourne Cocoaheads web site for information on our regular meetings",
+                "name": "Melbourne"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, March 17, 2016 18:30 at Atlassian (Level 6, 341 George St, Sydney)",
+                "name": "Sydney"
+            }
+        ],
+        "name": "Australia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, March 15, 2012 19:30 at MASSIVE ART WebServices GmbH, Sebastianstrasse 13, 6850 Dornbirn",
+                "name": "Bregenz"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, May 30, 2011 19:00 at BytePoets, M\u00fcnzgrabenstra\u00dfe 92/2/3, 8010 Graz Austria",
+                "name": "Graz"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, July 10, 2012 18:00 at runtastic HQ (Plus City, Pasching bei Linz)",
+                "name": "Linz"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, April 28, 2015 19:00 at Schrannengasse 6, 5020 Salzburg",
+                "name": "Salzburg"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 11, 2014 19:00 at Metalab, 1010 Wien, Rathausstrasse 6",
+                "name": "Wien"
+            }
+        ],
+        "name": "Austria"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, November 2, 2013 14:00 at Brest City, Brest Delivoi business centre, Viber office 5 floor",
+                "name": "Minsk"
+            }
+        ],
+        "name": "Belarus"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Wednesday, March 12, 2014 20:00 at Cegeka, Universiteitslaan 9, 3500 Hasselt",
+                "name": "Gent"
+            }
+        ],
+        "name": "Belgium"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, March 23, 2017 18:00 at Banja Luka College",
+                "name": "Banja Luka"
+            }
+        ],
+        "name": "Bosnia and Herzegovina"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, July 31, 2014 19:00 at Seed Startup Ecossystem",
+                "name": "Belo Horizonte"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 30, 2014 19:00 at Celebration Virtual Offices",
+                "name": "Bras\u00edlia"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 25, 2014 19:00 at R. Dr. Ricardo Benetton Martins, P\u00f3lis de Tecnologia - Pr\u00e9dio 23B 13086-902, Campinas, SP, Campinas",
+                "name": "Campinas"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 16, 2016 19:00 at Florian\u00f3polis",
+                "name": "Florianopolis"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 31, 2014 19:00 at Audit\u00f3rio do Flamboyant Shopping Center",
+                "name": "Goiania"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, July 14, 2015 19:00 at Concrete Solutions R. S\u00e3o Jos\u00e9, 90 - Centro, Rio de Janeiro",
+                "name": "Rio de Janeiro"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 29, 2015 19:00 at Avenida Brigadeiro Faria Lima, 4221, S\u00e3o Paulo",
+                "name": "S\u00e3o Paulo"
+            }
+        ],
+        "name": "Brazil"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Monday, June 10, 2013 19:45 at 4 Gurko str, Sofia Bulgaria",
+                "name": "Sofia"
+            }
+        ],
+        "name": "Bulgaria"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, September 9, 2010 18:00 at Splice Training - 1668 Barrington Street",
+                "name": "Halifax"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, January 14, 2014 18:30 at McKibbin's Irish Pub, 1426 Bishop St. Montreal, QC, H3G 2E6",
+                "name": "Montreal"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 8, 2021 19:00 at Online",
+                "name": "Ottawa/Gatineau, Ontario"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, November 12, 2013 18:30 at Metro Hall",
+                "name": "Toronto, Ontario"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 10, 2013 19:00 at Irish Times Pub, Downtown, Victoria, BC",
+                "name": "Victoria, BC"
+            }
+        ],
+        "name": "Canada"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, November 27, 2010 14:00 at Sina Weibo",
+                "name": "Beijing"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 14, 2016 19:00 at Blueprint, 17/F Cornwall House, Taikoo Place King's Quarry Bay, 979 King's Rd, Quarry Bay",
+                "name": "Hong Kong"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, May 21, 2015 19:00 at Alibaba office",
+                "name": "Shanghai"
+            }
+        ],
+        "name": "China"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Friday, July 20, 2018 20:00 at Republica Casa Cervecera",
+                "name": "San Jose"
+            }
+        ],
+        "name": "Costa Rica"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Wednesday, December 14, 2016 18:00 at Infinum HQ, Strojarska cesta 22, Zagreb",
+                "name": "Zagreb"
+            }
+        ],
+        "name": "Croatia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, April 6, 2017 20:00 at Bistro Arte, Kozacka 6, Praha - Vrsovice",
+                "name": "Prague"
+            }
+        ],
+        "name": "Czech Republic"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, December 8, 2009 19:00 at Helsingforsgade 8, lokale 138, 8200 Aarhus",
+                "name": "Aarhus"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 13, 2014 19:00 at Festsalen, Bikuben Kollegiet \u2013 Amagerf\u00e6lledvej 50B, Copenhagen",
+                "name": "Copenhagen"
+            }
+        ],
+        "name": "Denmark"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 13, 2014 18:00 at Boogie Software, Energiakuja 3, 00180 Helsinki",
+                "name": "Helsinki"
+            }
+        ],
+        "name": "Finland"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, May 12, 2011 19:30 at Ing\u00e9sup, 88 Quai des Chartrons, 33 000 Bordeaux, France",
+                "name": "Bordeaux"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, September 13, 2011 19:00 at Lille",
+                "name": "Lille"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, May 24, 2012 19:00 at Immeuble Le Thelemos 15 quai du commerce",
+                "name": "Lyon"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 14, 2016 19:00 at Coswos",
+                "name": "Montpellier"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 14, 2017 19:00 at Atelier Rosemood, 27 Rue La Noue Bras de Fer,, 44200 Nantes",
+                "name": "Nantes"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 20, 2013 19:00 at IESA multim\u00e9dia au 5, rue Saint-Augustin - 75002 - Paris // M\u00b0 Bourse",
+                "name": "Paris"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 25, 2014 18:30 at La Cantine num\u00e9rique rennaise,  Les Champs Libres 46 boulevard Magenta, 35000 Rennes",
+                "name": "Rennes"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 14, 2012 19:00 at ekito, 1 Place de la Bourse, 31000 Toulouse",
+                "name": "Toulouse"
+            }
+        ],
+        "name": "France"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Next meeting: Thursday, September 30, 2021 19:00 at ONLINE",
+                "name": "Aachen"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, October 21, 2015 19:00 at See www.meetup.com/de/Cocoaheads-Berlin/",
+                "name": "Berlin"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, March 13, 2014 19:00 at Office of 9elements GmbH, Kortumstra\u00dfe 26, 44787 Bochum",
+                "name": "Bochum"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 24, 2009 19:00 at Koenigswinterer Strasse 374, 53227 Bonn",
+                "name": "Bonn"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 2, 2018 18:30 at \u2105 Open Xchange, Stavendamm 22, 28195 Bremen",
+                "name": "Bremen"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 27, 2015 19:00 at Daniel Wetzel, All In B\u00fcro, Stefan-Heym-Platz 1, 09111 Chemnitz (Kaufhaus Schocken)",
+                "name": "Chemnitz"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 10, 2014 19:00 at SAP, Postplatz (Google Maps)",
+                "name": "Dresden"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, October 10, 2016 19:00 at Rheinfabrik Office, H\u00fcttenstra\u00dfe 100",
+                "name": "D\u00fcsseldorf"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, December 7, 2015 19:00 at Berger Str. 175, 60385 Frankfurt",
+                "name": "Frankfurt"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 6, 2017 19:00 at XING AG, Dammtorstra\u00dfe 30, 20354 Hamburg",
+                "name": "Hamburg"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, July 6, 2015 19:00 at HaCon Ingenieurgesellschaft mbH, Lister Stra\u00dfe 15, 30163 Hannover Deutschland",
+                "name": "Hannover"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, October 17, 2018 19:00 at Gunnars - Caf\u00e9, Lounge, Sports",
+                "name": "Heidelberg"
+            },
+            {
+                "meeting_text": "Next meeting: Wednesday, September 8, 2021 18:30 at Glashaus",
+                "name": "Leipzig"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, June 4, 2018 19:00 at digital Hub m\u00fcnsterLand, Hafenweg 16, 48155 M\u00fcnster",
+                "name": "Muenster"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 6, 2020 20:00 at online!",
+                "name": "Munich"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 18, 2020 20:00 at Josephsplatz 8, 90403 N\u00fcrnberg",
+                "name": "Nuernberg"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 30, 2014 19:00 at Hannoversche Str. 6-8 49084 Osnabr\u00fcck",
+                "name": "Osnabr\u00fcck"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 14, 2012 19:00 at Room H-A 8107, H\u00f6lderlinstra\u00dfe 3, 57076 Siegen, Germany",
+                "name": "Siegen"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, September 15, 2010 19:00 at MTV-Restaurant Kr\u00e4herwald (Am Kr\u00e4herwald 190 A, 70193 Stuttgart)",
+                "name": "Stuttgart"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, November 24, 2010 19:00 at Paulinstr. 123, CCC Trier",
+                "name": "Trier"
+            },
+            {
+                "meeting_text": "Previous meeting: Sunday, November 30, 2014 17:30 at Cafe Beckers Ulm",
+                "name": "Ulm"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 5, 2012 19:30 at Gehrings, Neubaustrasse 24, 97070 W\u00fcrzburg",
+                "name": "W\u00fcrzburg"
+            }
+        ],
+        "name": "Germany"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, June 24, 2014 19:00 at Evristheos 2, Athens, Greece",
+                "name": "Athens"
+            }
+        ],
+        "name": "Greece"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, November 13, 2018 07:00 at Cafe Despierto zona 4",
+                "name": "Guatemala City"
+            }
+        ],
+        "name": "Guatemala"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, July 6, 2013 10:00 at Thoughtworks",
+                "name": "Bangalore"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, August 30, 2014 11:00 at OMR, Chennai",
+                "name": "Chennai"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, March 9, 2013 19:00 at Mama Mia, Opposite Globus, Hill Road, Bandra",
+                "name": "Mumbai"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, March 15, 2014 12:00 at Synerzip, Next to City Pride Kothrud",
+                "name": "Pune"
+            }
+        ],
+        "name": "India"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, May 10, 2012 18:00 at Institute of Applied Science and Technology of Surabaya (iSTTS) - iSTTS Kampus Ngagel",
+                "name": "Surabaya"
+            }
+        ],
+        "name": "Indonesia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Friday, October 28, 2011 18:00 at Via Interna Aldo Moro 18, Carpi (MO)",
+                "name": "Carpi"
+            }
+        ],
+        "name": "Italy"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, July 14, 2007 13:00 at Samuti Building AA Annex Near Osaka's Kitahama station.",
+                "name": "Osaka"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, October 14, 2020 01:53 at Opera city, Apple training room",
+                "name": "Tokyo"
+            }
+        ],
+        "name": "Japan"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, July 19, 2012 19:30 at Info-Trek, 3rd Floor, Amcorp Mall, Petaling Jaya",
+                "name": "Kuala Lumpur"
+            }
+        ],
+        "name": "Malaysia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, August 25, 2011 20:00 at Hacker Garage at Guadalajara, M\u00e9xico",
+                "name": "Guadalajara"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, May 18, 2013 09:00 at Paseo de la Reforma 107, Piso 5, Despacho 502, M\u00e9xico D.F.",
+                "name": "Mexico City"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, June 23, 2012 18:00 at Coworking Monterrey. Isaac Garza 735 A \u2013 Altos, Entre Dr Coss y Zuazua, Zona Centro, Monterrey N.L. M\u00e9xico",
+                "name": "Monterrey"
+            },
+            {
+                "meeting_text": "Previous meeting: Friday, August 8, 2014 13:00 at ITESM campus Tampico",
+                "name": "Tampico"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, December 10, 2011 18:00 at CETYS Universidad",
+                "name": "Tijuana"
+            }
+        ],
+        "name": "Mexico"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Wednesday, December 20, 2017 18:00 at Amsterdam",
+                "name": "Amsterdam"
+            }
+        ],
+        "name": "Netherlands"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, May 11, 2017 19:00 at Fiserv Auckland",
+                "name": "Auckland"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 20, 2015 17:00 at Trade Me",
+                "name": "Wellington"
+            }
+        ],
+        "name": "New Zealand"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, February 21, 2013 18:00 at The HUB - Bryggen",
+                "name": "Bergen"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, January 1, 2014 00:00 at Oslo",
+                "name": "Oslo"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, November 13, 2013 18:00 at Digs @ Olav Tryggvasons gate 30",
+                "name": "Trondheim"
+            }
+        ],
+        "name": "Norway"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Wednesday, September 24, 2014 11:00 at TEO International, Islamabad",
+                "name": "Islamabad"
+            }
+        ],
+        "name": "Pakistan"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, April 8, 2017 13:00 at University of Immaculate Conception",
+                "name": "Davao City"
+            }
+        ],
+        "name": "Philippines"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, April 16, 2013 18:30 at Pomorski Park Naukowo-Technologiczny",
+                "name": "Gdynia"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 27, 2014 19:00 at Base Lab, Wycz\u00f3\u0142kowskiego 7, Krak\u00f3w",
+                "name": "Krak\u00f3w"
+            },
+            {
+                "meeting_text": "Previous meeting: Friday, July 10, 2009 19:00 at iSpot w CH Arkadia, Al Jana Paw\u0142a II 82, 00-175 Warszawa",
+                "name": "Warsaw"
+            }
+        ],
+        "name": "Poland"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, February 15, 2018 19:00 at UPTECH, Rua Alfredo Allen, 455/461, Porto, Portugal",
+                "name": "Porto"
+            }
+        ],
+        "name": "Portugal"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Saturday, March 14, 2009 15:00 at Bucharest",
+                "name": "Bucharest"
+            }
+        ],
+        "name": "Romania"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Friday, May 30, 2014 19:00 at 125167, \u0420\u043e\u0441\u0441\u0438\u044f, \u041c\u043e\u0441\u043a\u0432\u0430, \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0434. 47, \u0441\u0442\u0440. 2,",
+                "name": "Moscow"
+            },
+            {
+                "meeting_text": "Previous meeting: Friday, September 30, 2016 19:00 at \u041d\u0430\u0440\u0438\u043c\u0430\u043d\u043e\u0432\u0430 1, \u0441\u0442. 3, \u043e\u0444. 302",
+                "name": "Ulyanovsk"
+            }
+        ],
+        "name": "Russian Federation"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, June 9, 2009 20:00 at Dunkin Donuts, King Absullah St.",
+                "name": "Riyadh"
+            }
+        ],
+        "name": "Saudi Arabia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, March 26, 2009 19:00 at OffShore, 3/5 Gibson Street, Glasgow, G12 8NU",
+                "name": "Glasgow"
+            }
+        ],
+        "name": "Scotland"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, February 26, 2009 19:00 at iShop - Cineleisure Level 3 on Orchard Road",
+                "name": "Singapore"
+            }
+        ],
+        "name": "Singapore"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, March 17, 2015 19:00 at Connect (Cvernovka, 3rd floor), Parickova 18, Bratislava",
+                "name": "Bratislava"
+            }
+        ],
+        "name": "Slovakia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, January 19, 2016 17:00 at Zoo Bar, Tr\u017ea\u0161ka cesta 2, Ljubljana",
+                "name": "Ljubljana"
+            }
+        ],
+        "name": "Slovenia"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Monday, May 23, 2016 18:30 at Glucode Offices",
+                "name": "Johannesburg"
+            }
+        ],
+        "name": "South Africa"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Friday, September 25, 2009 15:30 at C/ Muntaner, 537 - 08022 Barcelona, Espa\u00f1a",
+                "name": "Barcelona"
+            },
+            {
+                "meeting_text": "Previous meeting: Friday, June 26, 2009 15:30 at Universomac SL, Calle Narciso Serra 14, 28007 Madrid",
+                "name": "Madrid"
+            }
+        ],
+        "name": "Spain"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, April 12, 2012 18:00 at Know IT, \u00d6stra Hamngatan 16, G\u00f6teborg",
+                "name": "G\u00f6teborg"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 28, 2013 17:30 at Foo Caf\u00e9, Stora varvsgatan 6a, Malm\u00f6, Sweden",
+                "name": "Malm\u00f6"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, February 3, 2014 18:30 at Spotify, Birger Jarlsgatan 61, Stockholm",
+                "name": "Stockholm"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, June 22, 2011 17:30 at Sundsvall, Storgatan 12, Dewire HQ",
+                "name": "Sundsvall"
+            }
+        ],
+        "name": "Sweden"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Wednesday, April 27, 2011 19:00 at Lausanne - Restaurant Le  Vaudois - Place de la Riponne 1",
+                "name": "Lausanne"
+            },
+            {
+                "meeting_text": "Previous meeting: Friday, March 26, 2010 09:00 at See cocoaheads.ch for up to date information.",
+                "name": "Z\u00fcrich"
+            }
+        ],
+        "name": "Switzerland"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, May 14, 2015 17:00 at 13F.-1, No.315, Minghua Rd., Gushan Dist., Kaohsiung City 804, Taiwan (R.O.C.)",
+                "name": "Kaohsiung"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, November 14, 2013 19:00 at \u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5205\u865f6\u6a13600\u5ba4",
+                "name": "Taipei"
+            }
+        ],
+        "name": "Taiwan"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, November 17, 2015 18:30 at Enable Labs 422 River Street Troy, NY  12180",
+                "name": "Albany, New York"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 10, 2014 18:30 at Ann Arbor SPARK Central 330 E. Liberty Street Ann Arbor, mi",
+                "name": "Ann Arbor, Michigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, November 12, 2020 19:00 at Online, for now! Contact us below for details!",
+                "name": "Atlanta, Georgia"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 11, 2015 19:00 at Capital Factory",
+                "name": "Austin, Texas"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 21, 2016 19:00 at ISCS Office 210 Inverness Parkway, Birmingham, AL 35242",
+                "name": "Birmingham, Alabama"
+            },
+            {
+                "meeting_text": "Previous meeting: Sunday, October 19, 2014 13:00 at Library at Cole and Ustick",
+                "name": "Boise, Idaho"
+            },
+            {
+                "meeting_text": "Next meeting: Thursday, September 9, 2021 19:00 at Online",
+                "name": "Boston, Massachusetts"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, June 14, 2011 19:00 at Lazy Dog Sports Bar and Grill",
+                "name": "Boulder, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, February 12, 2011 09:00 at Pasha Coffee & Tea, 3914 St. Elmo Ave, Chattanooga TN 37409",
+                "name": "Chattanooga, Tennessee"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, December 9, 2014 19:00 at Chicago Apple Store",
+                "name": "Chicago, Illinois"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 19, 2012 18:15 at Max Technical Training",
+                "name": "Cincinnati, Ohio"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, February 16, 2016 18:30 at DialogTech, 4500 Rockside Rd, Independence, OH",
+                "name": "Cleveland, Ohio"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 9, 2012 19:00 at 2121 Academy Circle, Suite 104, Colorado Springs, CO",
+                "name": "Colorado Springs, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 10, 2011 19:00 at Nemetschek Vectorworks, Inc.",
+                "name": "Columbia, Maryland"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, November 8, 2012 18:00 at 904 Elm Street, Suite 200",
+                "name": "Columbia, Missouri"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, February 9, 2021 19:00 at Tech Columbus",
+                "name": "Columbus, Ohio"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 11, 2013 19:00 at To be Announced",
+                "name": "Dallas, Texas"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 13, 2013 19:00 at Double Encore, 820 16th Street, 3rd floor, Denver, CO",
+                "name": "Denver, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, May 9, 2013 19:15 at Urbandale Public Library Meeting Room B",
+                "name": "Des Moines, Iowa"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 27, 2011 19:00 at Future Help Designs, 91 North Saginaw Suite 105, Pontiac, MI 48342",
+                "name": "Detroit, Michigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, August 28, 2013 18:00 at 222 Broadway N Fargo, ND 58102",
+                "name": "Fargo, North Dakota"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, April 2, 2019 18:30 at Mill Creek Software, 216 E Poplar St, Rogers, ArkansasSoftware, 216 E Poplar St, Rogers, Arkansas",
+                "name": "Fayetteville, Arkansas"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 10, 2010 07:00 at InspiringApps office: 2627 Redwing Rd, Suite #230, Fort Collins, CO 80526",
+                "name": "Fort Collins, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 10, 2013 19:00 at Citrix Systems FTL Headquarters, 851 West Cypress Creek Road Fort Lauderdale, FL - Tell the security you are here for the CocoaHeads Meeting.",
+                "name": "Fort Lauderdale"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 9, 2014 19:00 at 606 SW 4th Ave, Gainesville, FL",
+                "name": "Gainesville, Florida"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 20, 2007 20:00 at Starbucks",
+                "name": "Golden, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 9, 2015 19:00 at The Factory",
+                "name": "Grand Rapids, Michigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, December 13, 2016 19:00 at Super Duper Publications",
+                "name": "Greenville, South Carolina"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 26, 2014 11:30 at Metabahn's Offices",
+                "name": "Huntsville, AL"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, July 2, 2012 18:30 at E-gineering, 8415 Allison Pointe Blvd, Suite 200, Indianapolis, IN 46250",
+                "name": "Indianapolis"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 19, 2015 18:30 at Maestro HQ",
+                "name": "Kalamazoo, MIchigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 5, 2009 18:30 at H&R Block World Headquarters, Lobby Conference Room",
+                "name": "Kansas City, Missouri"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, November 25, 2014 19:00 at Knoxville Entrepreneur Center (KEC)",
+                "name": "Knoxville, Tennessee"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, November 12, 2014 22:00 at Orange County Public Library (El Toro) community room, 24672 Raymond Way, Lake Forest, CA 92630",
+                "name": "Lake Forest, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 7, 2017 19:00 at Apple Store, Eastwood Towne Center, Lansing, MI",
+                "name": "Lansing, Michigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 21, 2010 19:00 at Common Grounds Coffee House",
+                "name": "Lexington, Kentucky"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 12, 2013 19:00 at OpenX Technologies - Pasadena, Ca",
+                "name": "Los Angeles, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, September 21, 2011 19:00 at Panera Bread - 1801 Rudy Lane, Louisville, KY",
+                "name": "Louisville, Kentucky"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, September 22, 2009 18:00 at UW-Madison, Computer Science Building, Room CS 1325",
+                "name": "Madison, Wisconsin"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 10, 2014 19:00 at Start Co. office at 88 Union Ave (2nd Floor) in downtown Memphis",
+                "name": "Memphis, Tennessee"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 11, 2014 19:00 at The Lab Miami - 400 NW 26th St, Miami, FL 33127",
+                "name": "Miami, Florida"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 14, 2016 18:00 at Thomson Reuters, Eagan MN",
+                "name": "Minneapolis, MN"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, May 18, 2017 18:30 at Detroit Labs, 1520 Woodward Ave., Detroit, MI 48226",
+                "name": "Motor City, Michigan"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, January 27, 2016 18:00 at Aloompa",
+                "name": "Nashville, Tennessee"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, August 12, 2010 19:00 at Connecticut College, College Center at Crozier-Williams room 224",
+                "name": "New London, Connecticut"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, July 10, 2014 18:30 at Google, 76 9th Ave, New York, NY 10011",
+                "name": "New York, New York"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 3, 2009 18:30 at The OKCCoCo",
+                "name": "Oklahoma City, Oklahoma"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, September 8, 2009 19:00 at Stardust",
+                "name": "Orlando, Florida"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 9, 2015 18:30 at Apple Store, Walnut Street, Philadelphia, PA",
+                "name": "Philadelphia, Pennsylvania"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, December 8, 2016 19:00 at Software Ops, 15030 N Hayden Rd, Suite 120, Scottsdale, AZ 85260",
+                "name": "Phoenix, AZ"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, April 9, 2020 19:00 at Eat-n-Park in Robinson",
+                "name": "Pittsburgh, Pennsylvania"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 24, 2016 18:45 at 1319 SE MLK Blvd, Suite 220 Portland, OR 97214",
+                "name": "Portland, Oregon"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 15, 2015 19:00 at Pluralsight Office, 3400 Ashton Boulevard, Suite 450, Lehi, UT",
+                "name": "Provo, Utah"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, June 21, 2012 19:00 at Beta Desks Coworking",
+                "name": "Pueblo, Colorado"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, September 19, 2013 19:00 at 201 W. Main St. Durham, NC 27701",
+                "name": "Raleigh, North Carolina"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, July 6, 2015 11:00 at McLean, VA",
+                "name": "Reston, Virginia"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 7, 2013 01:00 at Rock Valley College - WTC Room 220",
+                "name": "Rockford, Illinois"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, March 2, 2011 19:00 at Panera Bread, 3328 El Camino Ave, Sacramento, CA 95821",
+                "name": "Sacramento, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, September 6, 2016 19:00 at Health Catalyst 3165 Millrock Dr #400, Salt Lake City, UT 84121 \u2022 Tel: 855-309-6800",
+                "name": "Salt Lake City, Utah"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, September 29, 2015 18:00 at Ansir Innovation Center 4685 Convoy St. #210 San Diego, CA 92111",
+                "name": "San Diego, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 11, 2018 19:00 at iFixit - 1330 Monterey St., San Luis Obispo",
+                "name": "San Luis Obispo, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 8, 2018 19:00 at Zulily - 2601 Elliott Ave, Seattle, WA",
+                "name": "Seattle"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, June 16, 2020 19:00 at Orchard Valley Coffee - 349 E Campbell Ave, Campbell, CA 95008",
+                "name": "Silicon Valley, California"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, May 25, 2016 18:00 at St. Louis County Library Headquarters",
+                "name": "St. Louis, Missouri"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 27, 2011 19:00 at The White House 7030 E. Genesee Street Fayetteville, New York 13066",
+                "name": "Syracuse, New York"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, December 6, 2011 19:00 at 732 Broadway, Suite 101, Tacoma WA",
+                "name": "Tacoma, Washington"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, May 14, 2015 19:00 at Actsoft Inc. 10006 N Dale Mabry Hwy 100, Tampa, FL",
+                "name": "Tampa, Florida"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, February 6, 2014 18:30 at Seed Coworking, 25 S. St. Clair, Toledo, OH",
+                "name": "Toledo, Ohio"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 28, 2012 19:00 at Spoke6 Co-working",
+                "name": "Tucson, Arizona"
+            },
+            {
+                "meeting_text": "Next meeting: Thursday, September 9, 2021 19:00 at Jitsi",
+                "name": "Upper Connecticut River Valley"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, January 5, 2012 07:00 at 1445 New York Ave NW, Suite 200, Washington, DC 20005",
+                "name": "Washington, D.C."
+            }
+        ],
+        "name": "U.S.A."
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Thursday, October 24, 2013 19:00 at Karl Marx 67a, 3rd floor, office \\\"Yalantis\\\"",
+                "name": "Dnepropetrovsk"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 24, 2013 19:00 at \u0433. \u041a\u0438\u0435\u0432 , \u0443\u043b. \u0410\u043c\u043e\u0441\u043e\u0432\u0430, 12 (\u043e\u0444\u0438\u0441 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Ciklum), 19\u0439 \u044d\u0442\u0430\u0436",
+                "name": "Kyiv"
+            }
+        ],
+        "name": "Ukraine"
+    },
+    {
+        "groups": [
+            {
+                "meeting_text": "Previous meeting: Tuesday, May 5, 2009 18:00 at Roast Coffee Co, Lisburn Road, Belfast",
+                "name": "Belfast, Northern Ireland"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, October 4, 2011 19:00 at Tobacco Factory, Raleigh Road, Bristol, Avon BS3 1TF",
+                "name": "Bristol"
+            },
+            {
+                "meeting_text": "Previous meeting: Thursday, October 13, 2016 19:00 at Doncaster City Centre Pub.",
+                "name": "Doncaster"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, August 22, 2017 18:30 at Montagu Pyke (Weatherspoons), Soho",
+                "name": "London"
+            },
+            {
+                "meeting_text": "Previous meeting: Saturday, March 23, 2019 13:00 at Symphony Solutions, Lviv",
+                "name": "Lviv"
+            },
+            {
+                "meeting_text": "Previous meeting: Tuesday, July 1, 2014 18:30 at Campus North, 5 Carliol Square, Newcastle, NE1",
+                "name": "Newcastle"
+            },
+            {
+                "meeting_text": "Previous meeting: Wednesday, September 26, 2012 18:00 at Room S11, Antenna Media Centre, Beck Street, Nottingham, NG1 1EQ",
+                "name": "Nottingham"
+            },
+            {
+                "meeting_text": "Previous meeting: Monday, October 1, 2012 20:00 at Glue Pot, 5 Emelyn Square, Swindon",
+                "name": "Swindon"
+            }
+        ],
+        "name": "United Kingdom"
+    }
+]
